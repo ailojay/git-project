@@ -1,0 +1,1 @@
+This is a portfolio of myself i created using vscode,its shows my nam and my image. i changed the background to gold and the letters to green
